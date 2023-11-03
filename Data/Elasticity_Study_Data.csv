@@ -1,0 +1,723 @@
+State,Year,Race,Gender,Age,Education,Current_Consumption,Previous_Year_Consumption,Current_Tax,Previous_Year_Tax
+Alabama,2015,African American,Overall,All Ages,All Grades,20.0,20.2,1.685,1.435
+Alabama,2015,All Races,Female,18 to 44 Years,All Grades,21.9,21.5,1.685,1.435
+Alabama,2015,All Races,Female,All Ages,All Grades,19.2,19.0,1.685,1.435
+Alabama,2015,All Races,Male,All Ages,All Grades,23.8,23.5,1.685,1.435
+Alabama,2015,All Races,Overall,18 to 24 Years,All Grades,21.1,23.5,1.685,1.435
+Alabama,2015,All Races,Overall,25 to 44 Years,All Grades,27.4,25.4,1.685,1.435
+Alabama,2015,All Races,Overall,45 to 64 Years,All Grades,22.5,23.0,1.685,1.435
+Alabama,2015,All Races,Overall,65 Years and Older,All Grades,10.2,9.4,1.685,1.435
+Alabama,2015,All Races,Overall,Age 20 and Older,12th Grade,25.0,24.3,1.685,1.435
+Alabama,2015,All Races,Overall,Age 20 and Older,< 12th Grade,34.4,37.6,1.685,1.435
+Alabama,2015,All Races,Overall,Age 20 and Older,> 12th Grade,15.7,14.7,1.685,1.435
+Alabama,2015,All Races,Overall,Age 25 and Older,12th Grade,25.3,23.9,1.685,1.435
+Alabama,2015,All Races,Overall,Age 25 and Older,< 12th Grade,33.0,35.2,1.685,1.435
+Alabama,2015,All Races,Overall,Age 25 and Older,> 12th Grade,15.7,14.2,1.685,1.435
+Alabama,2015,All Races,Overall,All Ages,All Grades,21.4,21.1,1.685,1.435
+Alabama,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,40.6,29.9,1.685,1.435
+Alabama,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,,,1.685,1.435
+Alabama,2015,Hispanic,Overall,All Ages,All Grades,20.2,18.6,1.685,1.435
+Alabama,2015,White,Overall,All Ages,All Grades,21.9,21.9,1.685,1.435
+California,2017,African American,Overall,All Ages,All Grades,17.5,15.5,3.88,1.88
+California,2017,All Races,Female,18 to 44 Years,All Grades,8.1,7.6,3.88,1.88
+California,2017,All Races,Female,All Ages,All Grades,7.8,8.2,3.88,1.88
+California,2017,All Races,Male,All Ages,All Grades,14.9,13.8,3.88,1.88
+California,2017,All Races,Overall,18 to 24 Years,All Grades,6.6,9.2,3.88,1.88
+California,2017,All Races,Overall,25 to 44 Years,All Grades,15.3,12.8,3.88,1.88
+California,2017,All Races,Overall,45 to 64 Years,All Grades,12.3,12.6,3.88,1.88
+California,2017,All Races,Overall,65 Years and Older,All Grades,5.3,5.6,3.88,1.88
+California,2017,All Races,Overall,Age 20 and Older,12th Grade,16.0,14.5,3.88,1.88
+California,2017,All Races,Overall,Age 20 and Older,< 12th Grade,16.3,14.2,3.88,1.88
+California,2017,All Races,Overall,Age 20 and Older,> 12th Grade,9.0,9.4,3.88,1.88
+California,2017,All Races,Overall,Age 25 and Older,12th Grade,16.9,14.1,3.88,1.88
+California,2017,All Races,Overall,Age 25 and Older,< 12th Grade,16.2,13.9,3.88,1.88
+California,2017,All Races,Overall,Age 25 and Older,> 12th Grade,9.2,9.6,3.88,1.88
+California,2017,All Races,Overall,All Ages,All Grades,11.3,11.0,3.88,1.88
+California,2017,American Indian/Alaska Native,Overall,All Ages,All Grades,11.5,17.1,3.88,1.88
+California,2017,Asian/Pacific Islander,Overall,All Ages,All Grades,7.4,5.7,3.88,1.88
+California,2017,Hispanic,Overall,All Ages,All Grades,10.7,10.6,3.88,1.88
+California,2017,White,Overall,All Ages,All Grades,12.4,12.1,3.88,1.88
+Connecticut,2015,African American,Overall,All Ages,All Grades,16.9,18.5,4.66,4.41
+Connecticut,2015,All Races,Female,18 to 44 Years,All Grades,11.7,15.5,4.66,4.41
+Connecticut,2015,All Races,Female,All Ages,All Grades,10.9,13.5,4.66,4.41
+Connecticut,2015,All Races,Male,All Ages,All Grades,16.3,17.5,4.66,4.41
+Connecticut,2015,All Races,Overall,18 to 24 Years,All Grades,9.9,13.0,4.66,4.41
+Connecticut,2015,All Races,Overall,25 to 44 Years,All Grades,17.5,21.1,4.66,4.41
+Connecticut,2015,All Races,Overall,45 to 64 Years,All Grades,14.9,16.3,4.66,4.41
+Connecticut,2015,All Races,Overall,65 Years and Older,All Grades,7.3,7.0,4.66,4.41
+Connecticut,2015,All Races,Overall,Age 20 and Older,12th Grade,17.7,22.8,4.66,4.41
+Connecticut,2015,All Races,Overall,Age 20 and Older,< 12th Grade,26.6,27.3,4.66,4.41
+Connecticut,2015,All Races,Overall,Age 20 and Older,> 12th Grade,9.9,11.0,4.66,4.41
+Connecticut,2015,All Races,Overall,Age 25 and Older,12th Grade,17.7,22.3,4.66,4.41
+Connecticut,2015,All Races,Overall,Age 25 and Older,< 12th Grade,25.8,26.5,4.66,4.41
+Connecticut,2015,All Races,Overall,Age 25 and Older,> 12th Grade,10.2,11.1,4.66,4.41
+Connecticut,2015,All Races,Overall,All Ages,All Grades,13.5,15.4,4.66,4.41
+Connecticut,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,,,4.66,4.41
+Connecticut,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,9.4,13.7,4.66,4.41
+Connecticut,2015,Hispanic,Overall,All Ages,All Grades,15.4,20.6,4.66,4.41
+Connecticut,2015,White,Overall,All Ages,All Grades,12.9,14.1,4.66,4.41
+Connecticut,2016,African American,Overall,All Ages,All Grades,16.8,16.9,4.91,4.66
+Connecticut,2016,All Races,Female,18 to 44 Years,All Grades,13.6,11.7,4.91,4.66
+Connecticut,2016,All Races,Female,All Ages,All Grades,12.0,10.9,4.91,4.66
+Connecticut,2016,All Races,Male,All Ages,All Grades,14.8,16.3,4.91,4.66
+Connecticut,2016,All Races,Overall,18 to 24 Years,All Grades,13.1,9.9,4.91,4.66
+Connecticut,2016,All Races,Overall,25 to 44 Years,All Grades,15.5,17.5,4.91,4.66
+Connecticut,2016,All Races,Overall,45 to 64 Years,All Grades,14.9,14.9,4.91,4.66
+Connecticut,2016,All Races,Overall,65 Years and Older,All Grades,7.8,7.3,4.91,4.66
+Connecticut,2016,All Races,Overall,Age 20 and Older,12th Grade,18.6,17.7,4.91,4.66
+Connecticut,2016,All Races,Overall,Age 20 and Older,< 12th Grade,28.6,26.6,4.91,4.66
+Connecticut,2016,All Races,Overall,Age 20 and Older,> 12th Grade,8.8,9.9,4.91,4.66
+Connecticut,2016,All Races,Overall,Age 25 and Older,12th Grade,18.3,17.7,4.91,4.66
+Connecticut,2016,All Races,Overall,Age 25 and Older,< 12th Grade,26.6,25.8,4.91,4.66
+Connecticut,2016,All Races,Overall,Age 25 and Older,> 12th Grade,8.7,10.2,4.91,4.66
+Connecticut,2016,All Races,Overall,All Ages,All Grades,13.3,13.5,4.91,4.66
+Connecticut,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,,,4.91,4.66
+Connecticut,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,6.7,9.4,4.91,4.66
+Connecticut,2016,Hispanic,Overall,All Ages,All Grades,15.2,15.4,4.91,4.66
+Connecticut,2016,White,Overall,All Ages,All Grades,12.6,12.9,4.91,4.66
+Connecticut,2018,African American,Overall,All Ages,All Grades,18.2,15.0,5.36,4.91
+Connecticut,2018,All Races,Female,18 to 44 Years,All Grades,12.3,12.7,5.36,4.91
+Connecticut,2018,All Races,Female,All Ages,All Grades,10.8,11.5,5.36,4.91
+Connecticut,2018,All Races,Male,All Ages,All Grades,13.6,14.1,5.36,4.91
+Connecticut,2018,All Races,Overall,18 to 24 Years,All Grades,10.1,10.6,5.36,4.91
+Connecticut,2018,All Races,Overall,25 to 44 Years,All Grades,15.9,17.6,5.36,4.91
+Connecticut,2018,All Races,Overall,45 to 64 Years,All Grades,13.5,12.8,5.36,4.91
+Connecticut,2018,All Races,Overall,65 Years and Older,All Grades,6.0,7.2,5.36,4.91
+Connecticut,2018,All Races,Overall,Age 20 and Older,12th Grade,18.4,19.3,5.36,4.91
+Connecticut,2018,All Races,Overall,Age 20 and Older,< 12th Grade,23.7,23.8,5.36,4.91
+Connecticut,2018,All Races,Overall,Age 20 and Older,> 12th Grade,8.2,8.4,5.36,4.91
+Connecticut,2018,All Races,Overall,Age 25 and Older,12th Grade,18.0,20.0,5.36,4.91
+Connecticut,2018,All Races,Overall,Age 25 and Older,< 12th Grade,22.4,23.4,5.36,4.91
+Connecticut,2018,All Races,Overall,Age 25 and Older,> 12th Grade,8.5,8.4,5.36,4.91
+Connecticut,2018,All Races,Overall,All Ages,All Grades,12.2,12.7,5.36,4.91
+Connecticut,2018,American Indian/Alaska Native,Overall,All Ages,All Grades,,,5.36,4.91
+Connecticut,2018,Asian/Pacific Islander,Overall,All Ages,All Grades,4.5,6.1,5.36,4.91
+Connecticut,2018,Hispanic,Overall,All Ages,All Grades,16.5,16.3,5.36,4.91
+Connecticut,2018,White,Overall,All Ages,All Grades,10.8,12.0,5.36,4.91
+Delaware,2017,African American,Overall,All Ages,All Grades,17.6,16.4,3.11,2.61
+Delaware,2017,All Races,Female,18 to 44 Years,All Grades,19.4,16.3,3.11,2.61
+Delaware,2017,All Races,Female,All Ages,All Grades,16.2,16.4,3.11,2.61
+Delaware,2017,All Races,Male,All Ages,All Grades,17.9,19.0,3.11,2.61
+Delaware,2017,All Races,Overall,18 to 24 Years,All Grades,13.0,11.8,3.11,2.61
+Delaware,2017,All Races,Overall,25 to 44 Years,All Grades,24.0,21.2,3.11,2.61
+Delaware,2017,All Races,Overall,45 to 64 Years,All Grades,18.2,21.9,3.11,2.61
+Delaware,2017,All Races,Overall,65 Years and Older,All Grades,7.7,9.4,3.11,2.61
+Delaware,2017,All Races,Overall,Age 20 and Older,12th Grade,22.4,23.0,3.11,2.61
+Delaware,2017,All Races,Overall,Age 20 and Older,< 12th Grade,27.2,29.3,3.11,2.61
+Delaware,2017,All Races,Overall,Age 20 and Older,> 12th Grade,12.6,12.8,3.11,2.61
+Delaware,2017,All Races,Overall,Age 25 and Older,12th Grade,22.6,22.8,3.11,2.61
+Delaware,2017,All Races,Overall,Age 25 and Older,< 12th Grade,26.5,29.5,3.11,2.61
+Delaware,2017,All Races,Overall,Age 25 and Older,> 12th Grade,13.2,13.5,3.11,2.61
+Delaware,2017,All Races,Overall,All Ages,All Grades,17.0,17.7,3.11,2.61
+Delaware,2017,American Indian/Alaska Native,Overall,All Ages,All Grades,39.6,,3.11,2.61
+Delaware,2017,Asian/Pacific Islander,Overall,All Ages,All Grades,14.3,6.7,3.11,2.61
+Delaware,2017,Hispanic,Overall,All Ages,All Grades,9.4,10.2,3.11,2.61
+Delaware,2017,White,Overall,All Ages,All Grades,17.1,18.5,3.11,2.61
+District of Columbia,2015,African American,Overall,All Ages,All Grades,24.6,26.0,3.91,3.87
+District of Columbia,2015,All Races,Female,18 to 44 Years,All Grades,15.3,14.6,3.91,3.87
+District of Columbia,2015,All Races,Female,All Ages,All Grades,16.1,14.6,3.91,3.87
+District of Columbia,2015,All Races,Male,All Ages,All Grades,15.8,18.4,3.91,3.87
+District of Columbia,2015,All Races,Overall,18 to 24 Years,All Grades,13.9,12.7,3.91,3.87
+District of Columbia,2015,All Races,Overall,25 to 44 Years,All Grades,14.9,15.2,3.91,3.87
+District of Columbia,2015,All Races,Overall,45 to 64 Years,All Grades,21.7,23.8,3.91,3.87
+District of Columbia,2015,All Races,Overall,65 Years and Older,All Grades,10.2,9.0,3.91,3.87
+District of Columbia,2015,All Races,Overall,Age 20 and Older,12th Grade,28.5,25.8,3.91,3.87
+District of Columbia,2015,All Races,Overall,Age 20 and Older,< 12th Grade,29.8,39.6,3.91,3.87
+District of Columbia,2015,All Races,Overall,Age 20 and Older,> 12th Grade,11.3,10.9,3.91,3.87
+District of Columbia,2015,All Races,Overall,Age 25 and Older,12th Grade,28.3,26.7,3.91,3.87
+District of Columbia,2015,All Races,Overall,Age 25 and Older,< 12th Grade,27.7,36.4,3.91,3.87
+District of Columbia,2015,All Races,Overall,Age 25 and Older,> 12th Grade,11.9,11.5,3.91,3.87
+District of Columbia,2015,All Races,Overall,All Ages,All Grades,16.0,16.4,3.91,3.87
+District of Columbia,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,,,3.91,3.87
+District of Columbia,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,3.4,3.0,3.91,3.87
+District of Columbia,2015,Hispanic,Overall,All Ages,All Grades,13.3,10.8,3.91,3.87
+District of Columbia,2015,White,Overall,All Ages,All Grades,7.0,7.3,3.91,3.87
+District of Columbia,2016,African American,Overall,All Ages,All Grades,21.8,24.6,3.93,3.91
+District of Columbia,2016,All Races,Female,18 to 44 Years,All Grades,10.4,15.3,3.93,3.91
+District of Columbia,2016,All Races,Female,All Ages,All Grades,12.1,16.1,3.93,3.91
+District of Columbia,2016,All Races,Male,All Ages,All Grades,17.7,15.8,3.93,3.91
+District of Columbia,2016,All Races,Overall,18 to 24 Years,All Grades,12.9,13.9,3.93,3.91
+District of Columbia,2016,All Races,Overall,25 to 44 Years,All Grades,13.8,14.9,3.93,3.91
+District of Columbia,2016,All Races,Overall,45 to 64 Years,All Grades,20.1,21.7,3.93,3.91
+District of Columbia,2016,All Races,Overall,65 Years and Older,All Grades,9.0,10.2,3.93,3.91
+District of Columbia,2016,All Races,Overall,Age 20 and Older,12th Grade,24.4,28.5,3.93,3.91
+District of Columbia,2016,All Races,Overall,Age 20 and Older,< 12th Grade,27.6,29.8,3.93,3.91
+District of Columbia,2016,All Races,Overall,Age 20 and Older,> 12th Grade,11.2,11.3,3.93,3.91
+District of Columbia,2016,All Races,Overall,Age 25 and Older,12th Grade,25.3,28.3,3.93,3.91
+District of Columbia,2016,All Races,Overall,Age 25 and Older,< 12th Grade,27.7,27.7,3.93,3.91
+District of Columbia,2016,All Races,Overall,Age 25 and Older,> 12th Grade,10.7,11.9,3.93,3.91
+District of Columbia,2016,All Races,Overall,All Ages,All Grades,14.7,16.0,3.93,3.91
+District of Columbia,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,,,3.93,3.91
+District of Columbia,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,6.6,3.4,3.93,3.91
+District of Columbia,2016,Hispanic,Overall,All Ages,All Grades,8.8,13.3,3.93,3.91
+District of Columbia,2016,White,Overall,All Ages,All Grades,9.3,7.0,3.93,3.91
+District of Columbia,2017,African American,Overall,All Ages,All Grades,22.2,21.8,3.95,3.93
+District of Columbia,2017,All Races,Female,18 to 44 Years,All Grades,9.6,10.4,3.95,3.93
+District of Columbia,2017,All Races,Female,All Ages,All Grades,11.3,12.1,3.95,3.93
+District of Columbia,2017,All Races,Male,All Ages,All Grades,17.8,17.7,3.95,3.93
+District of Columbia,2017,All Races,Overall,18 to 24 Years,All Grades,7.8,12.9,3.95,3.93
+District of Columbia,2017,All Races,Overall,25 to 44 Years,All Grades,14.4,13.8,3.95,3.93
+District of Columbia,2017,All Races,Overall,45 to 64 Years,All Grades,18.8,20.1,3.95,3.93
+District of Columbia,2017,All Races,Overall,65 Years and Older,All Grades,11.5,9.0,3.95,3.93
+District of Columbia,2017,All Races,Overall,Age 20 and Older,12th Grade,24.1,24.4,3.95,3.93
+District of Columbia,2017,All Races,Overall,Age 20 and Older,< 12th Grade,33.0,27.6,3.95,3.93
+District of Columbia,2017,All Races,Overall,Age 20 and Older,> 12th Grade,9.9,11.2,3.95,3.93
+District of Columbia,2017,All Races,Overall,Age 25 and Older,12th Grade,26.2,25.3,3.95,3.93
+District of Columbia,2017,All Races,Overall,Age 25 and Older,< 12th Grade,34.7,27.7,3.95,3.93
+District of Columbia,2017,All Races,Overall,Age 25 and Older,> 12th Grade,10.0,10.7,3.95,3.93
+District of Columbia,2017,All Races,Overall,All Ages,All Grades,14.3,14.7,3.95,3.93
+District of Columbia,2017,American Indian/Alaska Native,Overall,All Ages,All Grades,,,3.95,3.93
+District of Columbia,2017,Asian/Pacific Islander,Overall,All Ages,All Grades,9.8,6.6,3.95,3.93
+District of Columbia,2017,Hispanic,Overall,All Ages,All Grades,10.8,8.8,3.95,3.93
+District of Columbia,2017,White,Overall,All Ages,All Grades,6.9,9.3,3.95,3.93
+District of Columbia,2018,African American,Overall,All Ages,All Grades,21.8,22.2,5.95,3.95
+District of Columbia,2018,All Races,Female,18 to 44 Years,All Grades,11.5,9.6,5.95,3.95
+District of Columbia,2018,All Races,Female,All Ages,All Grades,12.6,11.3,5.95,3.95
+District of Columbia,2018,All Races,Male,All Ages,All Grades,15.1,17.8,5.95,3.95
+District of Columbia,2018,All Races,Overall,18 to 24 Years,All Grades,4.9,7.8,5.95,3.95
+District of Columbia,2018,All Races,Overall,25 to 44 Years,All Grades,14.0,14.4,5.95,3.95
+District of Columbia,2018,All Races,Overall,45 to 64 Years,All Grades,18.6,18.8,5.95,3.95
+District of Columbia,2018,All Races,Overall,65 Years and Older,All Grades,11.8,11.5,5.95,3.95
+District of Columbia,2018,All Races,Overall,Age 20 and Older,12th Grade,24.3,24.1,5.95,3.95
+District of Columbia,2018,All Races,Overall,Age 20 and Older,< 12th Grade,37.2,33.0,5.95,3.95
+District of Columbia,2018,All Races,Overall,Age 20 and Older,> 12th Grade,9.0,9.9,5.95,3.95
+District of Columbia,2018,All Races,Overall,Age 25 and Older,12th Grade,27.4,26.2,5.95,3.95
+District of Columbia,2018,All Races,Overall,Age 25 and Older,< 12th Grade,37.7,34.7,5.95,3.95
+District of Columbia,2018,All Races,Overall,Age 25 and Older,> 12th Grade,9.2,10.0,5.95,3.95
+District of Columbia,2018,All Races,Overall,All Ages,All Grades,13.8,14.3,5.95,3.95
+District of Columbia,2018,American Indian/Alaska Native,Overall,All Ages,All Grades,,,5.95,3.95
+District of Columbia,2018,Asian/Pacific Islander,Overall,All Ages,All Grades,6.6,9.8,5.95,3.95
+District of Columbia,2018,Hispanic,Overall,All Ages,All Grades,7.8,10.8,5.95,3.95
+District of Columbia,2018,White,Overall,All Ages,All Grades,6.9,6.9,5.95,3.95
+Illinois,2012,African American,Overall,All Ages,All Grades,22.5,27.1,2.99,1.99
+Illinois,2012,All Races,Female,18 to 44 Years,All Grades,18.2,18.0,2.99,1.99
+Illinois,2012,All Races,Female,All Ages,All Grades,16.2,17.8,2.99,1.99
+Illinois,2012,All Races,Male,All Ages,All Grades,21.1,24.2,2.99,1.99
+Illinois,2012,All Races,Overall,18 to 24 Years,All Grades,15.4,25.2,2.99,1.99
+Illinois,2012,All Races,Overall,25 to 44 Years,All Grades,24.4,24.1,2.99,1.99
+Illinois,2012,All Races,Overall,45 to 64 Years,All Grades,19.5,22.6,2.99,1.99
+Illinois,2012,All Races,Overall,65 Years and Older,All Grades,7.7,7.6,2.99,1.99
+Illinois,2012,All Races,Overall,Age 20 and Older,12th Grade,24.0,28.7,2.99,1.99
+Illinois,2012,All Races,Overall,Age 20 and Older,< 12th Grade,28.2,31.8,2.99,1.99
+Illinois,2012,All Races,Overall,Age 20 and Older,> 12th Grade,15.4,15.2,2.99,1.99
+Illinois,2012,All Races,Overall,Age 25 and Older,12th Grade,23.4,26.7,2.99,1.99
+Illinois,2012,All Races,Overall,Age 25 and Older,< 12th Grade,27.3,30.7,2.99,1.99
+Illinois,2012,All Races,Overall,Age 25 and Older,> 12th Grade,15.4,14.7,2.99,1.99
+Illinois,2012,All Races,Overall,All Ages,All Grades,18.6,20.9,2.99,1.99
+Illinois,2012,American Indian/Alaska Native,Overall,All Ages,All Grades,,,2.99,1.99
+Illinois,2012,Asian/Pacific Islander,Overall,All Ages,All Grades,13.6,5.8,2.99,1.99
+Illinois,2012,Hispanic,Overall,All Ages,All Grades,14.5,23.5,2.99,1.99
+Illinois,2012,White,Overall,All Ages,All Grades,18.7,19.8,2.99,1.99
+Illinois,2019,African American,Overall,All Ages,All Grades,18.8,21.4,3.99,2.99
+Illinois,2019,All Races,Female,18 to 44 Years,All Grades,12.7,13.5,3.99,2.99
+Illinois,2019,All Races,Female,All Ages,All Grades,12.1,12.1,3.99,2.99
+Illinois,2019,All Races,Male,All Ages,All Grades,17.0,18.9,3.99,2.99
+Illinois,2019,All Races,Overall,18 to 24 Years,All Grades,7.4,11.9,3.99,2.99
+Illinois,2019,All Races,Overall,25 to 44 Years,All Grades,18.1,20.4,3.99,2.99
+Illinois,2019,All Races,Overall,45 to 64 Years,All Grades,16.7,15.2,3.99,2.99
+Illinois,2019,All Races,Overall,65 Years and Older,All Grades,9.2,9.8,3.99,2.99
+Illinois,2019,All Races,Overall,Age 20 and Older,12th Grade,20.3,19.6,3.99,2.99
+Illinois,2019,All Races,Overall,Age 20 and Older,< 12th Grade,21.5,22.7,3.99,2.99
+Illinois,2019,All Races,Overall,Age 20 and Older,> 12th Grade,11.7,12.7,3.99,2.99
+Illinois,2019,All Races,Overall,Age 25 and Older,12th Grade,20.7,20.0,3.99,2.99
+Illinois,2019,All Races,Overall,Age 25 and Older,< 12th Grade,21.9,23.9,3.99,2.99
+Illinois,2019,All Races,Overall,Age 25 and Older,> 12th Grade,12.1,12.9,3.99,2.99
+Illinois,2019,All Races,Overall,All Ages,All Grades,14.5,15.5,3.99,2.99
+Illinois,2019,American Indian/Alaska Native,Overall,All Ages,All Grades,,,3.99,2.99
+Illinois,2019,Asian/Pacific Islander,Overall,All Ages,All Grades,10.3,8.1,3.99,2.99
+Illinois,2019,Hispanic,Overall,All Ages,All Grades,12.2,10.0,3.99,2.99
+Illinois,2019,White,Overall,All Ages,All Grades,14.1,16.1,3.99,2.99
+Kansas,2015,African American,Overall,All Ages,All Grades,25.1,25.5,2.3,1.8
+Kansas,2015,All Races,Female,18 to 44 Years,All Grades,17.6,19.2,2.3,1.8
+Kansas,2015,All Races,Female,All Ages,All Grades,16.1,16.7,2.3,1.8
+Kansas,2015,All Races,Male,All Ages,All Grades,19.3,19.5,2.3,1.8
+Kansas,2015,All Races,Overall,18 to 24 Years,All Grades,15.4,18.0,2.3,1.8
+Kansas,2015,All Races,Overall,25 to 44 Years,All Grades,22.1,21.9,2.3,1.8
+Kansas,2015,All Races,Overall,45 to 64 Years,All Grades,19.7,19.1,2.3,1.8
+Kansas,2015,All Races,Overall,65 Years and Older,All Grades,8.7,9.9,2.3,1.8
+Kansas,2015,All Races,Overall,Age 20 and Older,12th Grade,24.4,24.9,2.3,1.8
+Kansas,2015,All Races,Overall,Age 20 and Older,< 12th Grade,29.9,31.8,2.3,1.8
+Kansas,2015,All Races,Overall,Age 20 and Older,> 12th Grade,13.7,13.4,2.3,1.8
+Kansas,2015,All Races,Overall,Age 25 and Older,12th Grade,24.0,24.0,2.3,1.8
+Kansas,2015,All Races,Overall,Age 25 and Older,< 12th Grade,29.9,30.4,2.3,1.8
+Kansas,2015,All Races,Overall,Age 25 and Older,> 12th Grade,13.7,13.6,2.3,1.8
+Kansas,2015,All Races,Overall,All Ages,All Grades,17.7,18.1,2.3,1.8
+Kansas,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,27.7,35.1,2.3,1.8
+Kansas,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,9.3,10.6,2.3,1.8
+Kansas,2015,Hispanic,Overall,All Ages,All Grades,16.0,14.2,2.3,1.8
+Kansas,2015,White,Overall,All Ages,All Grades,17.3,17.5,2.3,1.8
+Kentucky,2018,African American,Overall,All Ages,All Grades,24.8,21.4,2.11,1.61
+Kentucky,2018,All Races,Female,18 to 44 Years,All Grades,29.4,27.5,2.11,1.61
+Kentucky,2018,All Races,Female,All Ages,All Grades,23.3,22.4,2.11,1.61
+Kentucky,2018,All Races,Male,All Ages,All Grades,23.2,26.9,2.11,1.61
+Kentucky,2018,All Races,Overall,18 to 24 Years,All Grades,20.4,15.6,2.11,1.61
+Kentucky,2018,All Races,Overall,25 to 44 Years,All Grades,30.8,32.4,2.11,1.61
+Kentucky,2018,All Races,Overall,45 to 64 Years,All Grades,23.9,27.8,2.11,1.61
+Kentucky,2018,All Races,Overall,65 Years and Older,All Grades,13.1,12.5,2.11,1.61
+Kentucky,2018,All Races,Overall,Age 20 and Older,12th Grade,27.5,28.5,2.11,1.61
+Kentucky,2018,All Races,Overall,Age 20 and Older,< 12th Grade,38.7,43.5,2.11,1.61
+Kentucky,2018,All Races,Overall,Age 20 and Older,> 12th Grade,17.9,17.6,2.11,1.61
+Kentucky,2018,All Races,Overall,Age 25 and Older,12th Grade,27.2,28.0,2.11,1.61
+Kentucky,2018,All Races,Overall,Age 25 and Older,< 12th Grade,37.4,44.5,2.11,1.61
+Kentucky,2018,All Races,Overall,Age 25 and Older,> 12th Grade,18.1,18.5,2.11,1.61
+Kentucky,2018,All Races,Overall,All Ages,All Grades,23.4,24.6,2.11,1.61
+Kentucky,2018,American Indian/Alaska Native,Overall,All Ages,All Grades,36.6,43.9,2.11,1.61
+Kentucky,2018,Asian/Pacific Islander,Overall,All Ages,All Grades,,,2.11,1.61
+Kentucky,2018,Hispanic,Overall,All Ages,All Grades,20.3,25.0,2.11,1.61
+Kentucky,2018,White,Overall,All Ages,All Grades,23.4,24.6,2.11,1.61
+Louisiana,2015,African American,Overall,All Ages,All Grades,21.2,24.6,1.87,1.37
+Louisiana,2015,All Races,Female,18 to 44 Years,All Grades,19.4,23.0,1.87,1.37
+Louisiana,2015,All Races,Female,All Ages,All Grades,19.3,20.7,1.87,1.37
+Louisiana,2015,All Races,Male,All Ages,All Grades,24.7,27.6,1.87,1.37
+Louisiana,2015,All Races,Overall,18 to 24 Years,All Grades,16.2,17.5,1.87,1.37
+Louisiana,2015,All Races,Overall,25 to 44 Years,All Grades,26.1,31.2,1.87,1.37
+Louisiana,2015,All Races,Overall,45 to 64 Years,All Grades,25.5,25.9,1.87,1.37
+Louisiana,2015,All Races,Overall,65 Years and Older,All Grades,11.4,11.6,1.87,1.37
+Louisiana,2015,All Races,Overall,Age 20 and Older,12th Grade,24.9,25.6,1.87,1.37
+Louisiana,2015,All Races,Overall,Age 20 and Older,< 12th Grade,37.9,43.9,1.87,1.37
+Louisiana,2015,All Races,Overall,Age 20 and Older,> 12th Grade,15.5,17.0,1.87,1.37
+Louisiana,2015,All Races,Overall,Age 25 and Older,12th Grade,25.1,26.2,1.87,1.37
+Louisiana,2015,All Races,Overall,Age 25 and Older,< 12th Grade,39.7,44.1,1.87,1.37
+Louisiana,2015,All Races,Overall,Age 25 and Older,> 12th Grade,15.2,17.4,1.87,1.37
+Louisiana,2015,All Races,Overall,All Ages,All Grades,21.9,24.0,1.87,1.37
+Louisiana,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,,31.6,1.87,1.37
+Louisiana,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,,,1.87,1.37
+Louisiana,2015,Hispanic,Overall,All Ages,All Grades,23.6,19.8,1.87,1.37
+Louisiana,2015,White,Overall,All Ages,All Grades,22.3,23.8,1.87,1.37
+Louisiana,2016,African American,Overall,All Ages,All Grades,22.3,21.2,2.09,1.87
+Louisiana,2016,All Races,Female,18 to 44 Years,All Grades,24.8,19.4,2.09,1.87
+Louisiana,2016,All Races,Female,All Ages,All Grades,20.2,19.3,2.09,1.87
+Louisiana,2016,All Races,Male,All Ages,All Grades,25.5,24.7,2.09,1.87
+Louisiana,2016,All Races,Overall,18 to 24 Years,All Grades,21.4,16.2,2.09,1.87
+Louisiana,2016,All Races,Overall,25 to 44 Years,All Grades,28.6,26.1,2.09,1.87
+Louisiana,2016,All Races,Overall,45 to 64 Years,All Grades,23.7,25.5,2.09,1.87
+Louisiana,2016,All Races,Overall,65 Years and Older,All Grades,11.5,11.4,2.09,1.87
+Louisiana,2016,All Races,Overall,Age 20 and Older,12th Grade,24.5,24.9,2.09,1.87
+Louisiana,2016,All Races,Overall,Age 20 and Older,< 12th Grade,37.2,37.9,2.09,1.87
+Louisiana,2016,All Races,Overall,Age 20 and Older,> 12th Grade,17.6,15.5,2.09,1.87
+Louisiana,2016,All Races,Overall,Age 25 and Older,12th Grade,25.1,25.1,2.09,1.87
+Louisiana,2016,All Races,Overall,Age 25 and Older,< 12th Grade,34.8,39.7,2.09,1.87
+Louisiana,2016,All Races,Overall,Age 25 and Older,> 12th Grade,17.5,15.2,2.09,1.87
+Louisiana,2016,All Races,Overall,All Ages,All Grades,22.8,21.9,2.09,1.87
+Louisiana,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,25.3,,2.09,1.87
+Louisiana,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,,,2.09,1.87
+Louisiana,2016,Hispanic,Overall,All Ages,All Grades,25.8,23.6,2.09,1.87
+Louisiana,2016,White,Overall,All Ages,All Grades,22.6,22.3,2.09,1.87
+Massachusetts,2013,African American,Overall,All Ages,All Grades,20.7,18.2,4.52,3.52
+Massachusetts,2013,All Races,Female,18 to 44 Years,All Grades,16.9,17.7,4.52,3.52
+Massachusetts,2013,All Races,Female,All Ages,All Grades,14.7,14.8,4.52,3.52
+Massachusetts,2013,All Races,Male,All Ages,All Grades,18.7,18.0,4.52,3.52
+Massachusetts,2013,All Races,Overall,18 to 24 Years,All Grades,19.7,17.7,4.52,3.52
+Massachusetts,2013,All Races,Overall,25 to 44 Years,All Grades,19.0,20.9,4.52,3.52
+Massachusetts,2013,All Races,Overall,45 to 64 Years,All Grades,17.1,16.3,4.52,3.52
+Massachusetts,2013,All Races,Overall,65 Years and Older,All Grades,9.6,8.4,4.52,3.52
+Massachusetts,2013,All Races,Overall,Age 20 and Older,12th Grade,24.0,23.6,4.52,3.52
+Massachusetts,2013,All Races,Overall,Age 20 and Older,< 12th Grade,26.9,31.3,4.52,3.52
+Massachusetts,2013,All Races,Overall,Age 20 and Older,> 12th Grade,12.2,11.7,4.52,3.52
+Massachusetts,2013,All Races,Overall,Age 25 and Older,12th Grade,22.6,23.2,4.52,3.52
+Massachusetts,2013,All Races,Overall,Age 25 and Older,< 12th Grade,26.6,29.0,4.52,3.52
+Massachusetts,2013,All Races,Overall,Age 25 and Older,> 12th Grade,11.8,11.4,4.52,3.52
+Massachusetts,2013,All Races,Overall,All Ages,All Grades,16.6,16.4,4.52,3.52
+Massachusetts,2013,American Indian/Alaska Native,Overall,All Ages,All Grades,36.9,34.2,4.52,3.52
+Massachusetts,2013,Asian/Pacific Islander,Overall,All Ages,All Grades,8.2,7.8,4.52,3.52
+Massachusetts,2013,Hispanic,Overall,All Ages,All Grades,15.5,16.9,4.52,3.52
+Massachusetts,2013,White,Overall,All Ages,All Grades,16.7,16.4,4.52,3.52
+Minnesota,2012,African American,Overall,All Ages,All Grades,29.4,29.8,2.61,2.596
+Minnesota,2012,All Races,Female,18 to 44 Years,All Grades,19.5,21.0,2.61,2.596
+Minnesota,2012,All Races,Female,All Ages,All Grades,16.0,17.0,2.61,2.596
+Minnesota,2012,All Races,Male,All Ages,All Grades,21.7,21.2,2.61,2.596
+Minnesota,2012,All Races,Overall,18 to 24 Years,All Grades,20.6,24.7,2.61,2.596
+Minnesota,2012,All Races,Overall,25 to 44 Years,All Grades,24.2,22.7,2.61,2.596
+Minnesota,2012,All Races,Overall,45 to 64 Years,All Grades,18.3,18.9,2.61,2.596
+Minnesota,2012,All Races,Overall,65 Years and Older,All Grades,8.8,8.6,2.61,2.596
+Minnesota,2012,All Races,Overall,Age 20 and Older,12th Grade,25.9,25.3,2.61,2.596
+Minnesota,2012,All Races,Overall,Age 20 and Older,< 12th Grade,34.8,32.9,2.61,2.596
+Minnesota,2012,All Races,Overall,Age 20 and Older,> 12th Grade,14.5,14.9,2.61,2.596
+Minnesota,2012,All Races,Overall,Age 25 and Older,12th Grade,24.7,23.6,2.61,2.596
+Minnesota,2012,All Races,Overall,Age 25 and Older,< 12th Grade,33.6,31.8,2.61,2.596
+Minnesota,2012,All Races,Overall,Age 25 and Older,> 12th Grade,14.3,14.4,2.61,2.596
+Minnesota,2012,All Races,Overall,All Ages,All Grades,18.8,19.1,2.61,2.596
+Minnesota,2012,American Indian/Alaska Native,Overall,All Ages,All Grades,34.4,47.1,2.61,2.596
+Minnesota,2012,Asian/Pacific Islander,Overall,All Ages,All Grades,10.5,13.7,2.61,2.596
+Minnesota,2012,Hispanic,Overall,All Ages,All Grades,18.5,20.1,2.61,2.596
+Minnesota,2012,White,Overall,All Ages,All Grades,18.0,18.2,2.61,2.596
+Minnesota,2013,African American,Overall,All Ages,All Grades,22.2,29.4,4.333,2.61
+Minnesota,2013,All Races,Female,18 to 44 Years,All Grades,20.6,19.5,4.333,2.61
+Minnesota,2013,All Races,Female,All Ages,All Grades,16.7,16.0,4.333,2.61
+Minnesota,2013,All Races,Male,All Ages,All Grades,19.4,21.7,4.333,2.61
+Minnesota,2013,All Races,Overall,18 to 24 Years,All Grades,21.9,20.6,4.333,2.61
+Minnesota,2013,All Races,Overall,25 to 44 Years,All Grades,21.5,24.2,4.333,2.61
+Minnesota,2013,All Races,Overall,45 to 64 Years,All Grades,18.0,18.3,4.333,2.61
+Minnesota,2013,All Races,Overall,65 Years and Older,All Grades,9.3,8.8,4.333,2.61
+Minnesota,2013,All Races,Overall,Age 20 and Older,12th Grade,23.9,25.9,4.333,2.61
+Minnesota,2013,All Races,Overall,Age 20 and Older,< 12th Grade,33.4,34.8,4.333,2.61
+Minnesota,2013,All Races,Overall,Age 20 and Older,> 12th Grade,13.9,14.5,4.333,2.61
+Minnesota,2013,All Races,Overall,Age 25 and Older,12th Grade,22.3,24.7,4.333,2.61
+Minnesota,2013,All Races,Overall,Age 25 and Older,< 12th Grade,32.1,33.6,4.333,2.61
+Minnesota,2013,All Races,Overall,Age 25 and Older,> 12th Grade,13.7,14.3,4.333,2.61
+Minnesota,2013,All Races,Overall,All Ages,All Grades,18.0,18.8,4.333,2.61
+Minnesota,2013,American Indian/Alaska Native,Overall,All Ages,All Grades,47.2,34.4,4.333,2.61
+Minnesota,2013,Asian/Pacific Islander,Overall,All Ages,All Grades,6.3,10.5,4.333,2.61
+Minnesota,2013,Hispanic,Overall,All Ages,All Grades,16.9,18.5,4.333,2.61
+Minnesota,2013,White,Overall,All Ages,All Grades,18.0,18.0,4.333,2.61
+Minnesota,2014,African American,Overall,All Ages,All Grades,22.3,22.2,4.352,4.333
+Minnesota,2014,All Races,Female,18 to 44 Years,All Grades,17.0,20.6,4.352,4.333
+Minnesota,2014,All Races,Female,All Ages,All Grades,14.8,16.7,4.352,4.333
+Minnesota,2014,All Races,Male,All Ages,All Grades,17.9,19.4,4.352,4.333
+Minnesota,2014,All Races,Overall,18 to 24 Years,All Grades,16.0,21.9,4.352,4.333
+Minnesota,2014,All Races,Overall,25 to 44 Years,All Grades,20.6,21.5,4.352,4.333
+Minnesota,2014,All Races,Overall,45 to 64 Years,All Grades,16.7,18.0,4.352,4.333
+Minnesota,2014,All Races,Overall,65 Years and Older,All Grades,8.1,9.3,4.352,4.333
+Minnesota,2014,All Races,Overall,Age 20 and Older,12th Grade,24.5,23.9,4.352,4.333
+Minnesota,2014,All Races,Overall,Age 20 and Older,< 12th Grade,28.9,33.4,4.352,4.333
+Minnesota,2014,All Races,Overall,Age 20 and Older,> 12th Grade,12.0,13.9,4.352,4.333
+Minnesota,2014,All Races,Overall,Age 25 and Older,12th Grade,23.4,22.3,4.352,4.333
+Minnesota,2014,All Races,Overall,Age 25 and Older,< 12th Grade,27.8,32.1,4.352,4.333
+Minnesota,2014,All Races,Overall,Age 25 and Older,> 12th Grade,12.2,13.7,4.352,4.333
+Minnesota,2014,All Races,Overall,All Ages,All Grades,16.3,18.0,4.352,4.333
+Minnesota,2014,American Indian/Alaska Native,Overall,All Ages,All Grades,38.6,47.2,4.352,4.333
+Minnesota,2014,Asian/Pacific Islander,Overall,All Ages,All Grades,9.8,6.3,4.352,4.333
+Minnesota,2014,Hispanic,Overall,All Ages,All Grades,14.3,16.9,4.352,4.333
+Minnesota,2014,White,Overall,All Ages,All Grades,15.9,18.0,4.352,4.333
+Minnesota,2015,African American,Overall,All Ages,All Grades,21.0,22.3,4.436,4.352
+Minnesota,2015,All Races,Female,18 to 44 Years,All Grades,17.2,17.0,4.436,4.352
+Minnesota,2015,All Races,Female,All Ages,All Grades,14.8,14.8,4.436,4.352
+Minnesota,2015,All Races,Male,All Ages,All Grades,17.6,17.9,4.436,4.352
+Minnesota,2015,All Races,Overall,18 to 24 Years,All Grades,17.3,16.0,4.436,4.352
+Minnesota,2015,All Races,Overall,25 to 44 Years,All Grades,19.9,20.6,4.436,4.352
+Minnesota,2015,All Races,Overall,45 to 64 Years,All Grades,17.2,16.7,4.436,4.352
+Minnesota,2015,All Races,Overall,65 Years and Older,All Grades,7.4,8.1,4.436,4.352
+Minnesota,2015,All Races,Overall,Age 20 and Older,12th Grade,22.8,24.5,4.436,4.352
+Minnesota,2015,All Races,Overall,Age 20 and Older,< 12th Grade,36.8,28.9,4.436,4.352
+Minnesota,2015,All Races,Overall,Age 20 and Older,> 12th Grade,11.6,12.0,4.436,4.352
+Minnesota,2015,All Races,Overall,Age 25 and Older,12th Grade,22.2,23.4,4.436,4.352
+Minnesota,2015,All Races,Overall,Age 25 and Older,< 12th Grade,34.7,27.8,4.436,4.352
+Minnesota,2015,All Races,Overall,Age 25 and Older,> 12th Grade,11.5,12.2,4.436,4.352
+Minnesota,2015,All Races,Overall,All Ages,All Grades,16.2,16.3,4.436,4.352
+Minnesota,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,38.1,38.6,4.436,4.352
+Minnesota,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,8.3,9.8,4.436,4.352
+Minnesota,2015,Hispanic,Overall,All Ages,All Grades,16.8,14.3,4.436,4.352
+Minnesota,2015,White,Overall,All Ages,All Grades,15.7,15.9,4.436,4.352
+Minnesota,2016,African American,Overall,All Ages,All Grades,18.1,21.0,4.553,4.436
+Minnesota,2016,All Races,Female,18 to 44 Years,All Grades,16.0,17.2,4.553,4.436
+Minnesota,2016,All Races,Female,All Ages,All Grades,13.9,14.8,4.553,4.436
+Minnesota,2016,All Races,Male,All Ages,All Grades,16.6,17.6,4.553,4.436
+Minnesota,2016,All Races,Overall,18 to 24 Years,All Grades,12.6,17.3,4.553,4.436
+Minnesota,2016,All Races,Overall,25 to 44 Years,All Grades,19.2,19.9,4.553,4.436
+Minnesota,2016,All Races,Overall,45 to 64 Years,All Grades,16.4,17.2,4.553,4.436
+Minnesota,2016,All Races,Overall,65 Years and Older,All Grades,8.1,7.4,4.553,4.436
+Minnesota,2016,All Races,Overall,Age 20 and Older,12th Grade,22.9,22.8,4.553,4.436
+Minnesota,2016,All Races,Overall,Age 20 and Older,< 12th Grade,28.7,36.8,4.553,4.436
+Minnesota,2016,All Races,Overall,Age 20 and Older,> 12th Grade,11.2,11.6,4.553,4.436
+Minnesota,2016,All Races,Overall,Age 25 and Older,12th Grade,22.3,22.2,4.553,4.436
+Minnesota,2016,All Races,Overall,Age 25 and Older,< 12th Grade,28.0,34.7,4.553,4.436
+Minnesota,2016,All Races,Overall,Age 25 and Older,> 12th Grade,11.6,11.5,4.553,4.436
+Minnesota,2016,All Races,Overall,All Ages,All Grades,15.2,16.2,4.553,4.436
+Minnesota,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,38.9,38.1,4.553,4.436
+Minnesota,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,9.0,8.3,4.553,4.436
+Minnesota,2016,Hispanic,Overall,All Ages,All Grades,13.3,16.8,4.553,4.436
+Minnesota,2016,White,Overall,All Ages,All Grades,15.0,15.7,4.553,4.436
+Minnesota,2017,African American,Overall,All Ages,All Grades,19.3,18.1,4.6,4.553
+Minnesota,2017,All Races,Female,18 to 44 Years,All Grades,14.2,16.0,4.6,4.553
+Minnesota,2017,All Races,Female,All Ages,All Grades,12.8,13.9,4.6,4.553
+Minnesota,2017,All Races,Male,All Ages,All Grades,16.3,16.6,4.6,4.553
+Minnesota,2017,All Races,Overall,18 to 24 Years,All Grades,12.1,12.6,4.6,4.553
+Minnesota,2017,All Races,Overall,25 to 44 Years,All Grades,17.7,19.2,4.6,4.553
+Minnesota,2017,All Races,Overall,45 to 64 Years,All Grades,16.0,16.4,4.6,4.553
+Minnesota,2017,All Races,Overall,65 Years and Older,All Grades,8.3,8.1,4.6,4.553
+Minnesota,2017,All Races,Overall,Age 20 and Older,12th Grade,21.5,22.9,4.6,4.553
+Minnesota,2017,All Races,Overall,Age 20 and Older,< 12th Grade,28.3,28.7,4.6,4.553
+Minnesota,2017,All Races,Overall,Age 20 and Older,> 12th Grade,10.9,11.2,4.6,4.553
+Minnesota,2017,All Races,Overall,Age 25 and Older,12th Grade,21.6,22.3,4.6,4.553
+Minnesota,2017,All Races,Overall,Age 25 and Older,< 12th Grade,27.2,28.0,4.6,4.553
+Minnesota,2017,All Races,Overall,Age 25 and Older,> 12th Grade,11.1,11.6,4.6,4.553
+Minnesota,2017,All Races,Overall,All Ages,All Grades,14.5,15.2,4.6,4.553
+Minnesota,2017,American Indian/Alaska Native,Overall,All Ages,All Grades,38.1,38.9,4.6,4.553
+Minnesota,2017,Asian/Pacific Islander,Overall,All Ages,All Grades,8.5,9.0,4.6,4.553
+Minnesota,2017,Hispanic,Overall,All Ages,All Grades,15.7,13.3,4.6,4.553
+Minnesota,2017,White,Overall,All Ages,All Grades,14.0,15.0,4.6,4.553
+Minnesota,2018,African American,Overall,All Ages,All Grades,21.4,19.3,4.624,4.6
+Minnesota,2018,All Races,Female,18 to 44 Years,All Grades,15.7,14.2,4.624,4.6
+Minnesota,2018,All Races,Female,All Ages,All Grades,13.5,12.8,4.624,4.6
+Minnesota,2018,All Races,Male,All Ages,All Grades,16.8,16.3,4.624,4.6
+Minnesota,2018,All Races,Overall,18 to 24 Years,All Grades,14.0,12.1,4.624,4.6
+Minnesota,2018,All Races,Overall,25 to 44 Years,All Grades,19.9,17.7,4.624,4.6
+Minnesota,2018,All Races,Overall,45 to 64 Years,All Grades,15.1,16.0,4.624,4.6
+Minnesota,2018,All Races,Overall,65 Years and Older,All Grades,8.3,8.3,4.624,4.6
+Minnesota,2018,All Races,Overall,Age 20 and Older,12th Grade,23.7,21.5,4.624,4.6
+Minnesota,2018,All Races,Overall,Age 20 and Older,< 12th Grade,29.8,28.3,4.624,4.6
+Minnesota,2018,All Races,Overall,Age 20 and Older,> 12th Grade,10.9,10.9,4.624,4.6
+Minnesota,2018,All Races,Overall,Age 25 and Older,12th Grade,23.1,21.6,4.624,4.6
+Minnesota,2018,All Races,Overall,Age 25 and Older,< 12th Grade,27.5,27.2,4.624,4.6
+Minnesota,2018,All Races,Overall,Age 25 and Older,> 12th Grade,11.3,11.1,4.624,4.6
+Minnesota,2018,All Races,Overall,All Ages,All Grades,15.1,14.5,4.624,4.6
+Minnesota,2018,American Indian/Alaska Native,Overall,All Ages,All Grades,49.3,38.1,4.624,4.6
+Minnesota,2018,Asian/Pacific Islander,Overall,All Ages,All Grades,10.2,8.5,4.624,4.6
+Minnesota,2018,Hispanic,Overall,All Ages,All Grades,13.6,15.7,4.624,4.6
+Minnesota,2018,White,Overall,All Ages,All Grades,14.6,14.0,4.624,4.6
+Minnesota,2019,African American,Overall,All Ages,All Grades,18.1,21.4,4.638,4.624
+Minnesota,2019,All Races,Female,18 to 44 Years,All Grades,14.2,15.7,4.638,4.624
+Minnesota,2019,All Races,Female,All Ages,All Grades,13.0,13.5,4.638,4.624
+Minnesota,2019,All Races,Male,All Ages,All Grades,16.3,16.8,4.638,4.624
+Minnesota,2019,All Races,Overall,18 to 24 Years,All Grades,9.2,14.0,4.638,4.624
+Minnesota,2019,All Races,Overall,25 to 44 Years,All Grades,18.5,19.9,4.638,4.624
+Minnesota,2019,All Races,Overall,45 to 64 Years,All Grades,16.9,15.1,4.638,4.624
+Minnesota,2019,All Races,Overall,65 Years and Older,All Grades,8.1,8.3,4.638,4.624
+Minnesota,2019,All Races,Overall,Age 20 and Older,12th Grade,22.9,23.7,4.638,4.624
+Minnesota,2019,All Races,Overall,Age 20 and Older,< 12th Grade,33.0,29.8,4.638,4.624
+Minnesota,2019,All Races,Overall,Age 20 and Older,> 12th Grade,10.5,10.9,4.638,4.624
+Minnesota,2019,All Races,Overall,Age 25 and Older,12th Grade,23.3,23.1,4.638,4.624
+Minnesota,2019,All Races,Overall,Age 25 and Older,< 12th Grade,33.4,27.5,4.638,4.624
+Minnesota,2019,All Races,Overall,Age 25 and Older,> 12th Grade,10.8,11.3,4.638,4.624
+Minnesota,2019,All Races,Overall,All Ages,All Grades,14.6,15.1,4.638,4.624
+Minnesota,2019,American Indian/Alaska Native,Overall,All Ages,All Grades,36.1,49.3,4.638,4.624
+Minnesota,2019,Asian/Pacific Islander,Overall,All Ages,All Grades,13.7,10.2,4.638,4.624
+Minnesota,2019,Hispanic,Overall,All Ages,All Grades,13.8,13.6,4.638,4.624
+Minnesota,2019,White,Overall,All Ages,All Grades,14.0,14.6,4.638,4.624
+Nevada,2015,African American,Overall,All Ages,All Grades,27.4,24.6,2.81,1.81
+Nevada,2015,All Races,Female,18 to 44 Years,All Grades,14.7,13.2,2.81,1.81
+Nevada,2015,All Races,Female,All Ages,All Grades,14.6,13.7,2.81,1.81
+Nevada,2015,All Races,Male,All Ages,All Grades,20.5,20.2,2.81,1.81
+Nevada,2015,All Races,Overall,18 to 24 Years,All Grades,13.8,17.3,2.81,1.81
+Nevada,2015,All Races,Overall,25 to 44 Years,All Grades,23.2,18.6,2.81,1.81
+Nevada,2015,All Races,Overall,45 to 64 Years,All Grades,15.8,17.5,2.81,1.81
+Nevada,2015,All Races,Overall,65 Years and Older,All Grades,12.3,12.6,2.81,1.81
+Nevada,2015,All Races,Overall,Age 20 and Older,12th Grade,20.5,24.0,2.81,1.81
+Nevada,2015,All Races,Overall,Age 20 and Older,< 12th Grade,20.1,23.5,2.81,1.81
+Nevada,2015,All Races,Overall,Age 20 and Older,> 12th Grade,15.9,11.9,2.81,1.81
+Nevada,2015,All Races,Overall,Age 25 and Older,12th Grade,20.8,23.8,2.81,1.81
+Nevada,2015,All Races,Overall,Age 25 and Older,< 12th Grade,19.6,22.0,2.81,1.81
+Nevada,2015,All Races,Overall,Age 25 and Older,> 12th Grade,16.2,11.8,2.81,1.81
+Nevada,2015,All Races,Overall,All Ages,All Grades,17.5,17.0,2.81,1.81
+Nevada,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,,34.8,2.81,1.81
+Nevada,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,17.2,12.1,2.81,1.81
+Nevada,2015,Hispanic,Overall,All Ages,All Grades,14.3,15.8,2.81,1.81
+Nevada,2015,White,Overall,All Ages,All Grades,17.5,17.2,2.81,1.81
+New Hampshire,2013,African American,Overall,All Ages,All Grades,,,2.79,2.69
+New Hampshire,2013,All Races,Female,18 to 44 Years,All Grades,21.2,17.4,2.79,2.69
+New Hampshire,2013,All Races,Female,All Ages,All Grades,15.8,14.5,2.79,2.69
+New Hampshire,2013,All Races,Male,All Ages,All Grades,16.7,20.0,2.79,2.69
+New Hampshire,2013,All Races,Overall,18 to 24 Years,All Grades,17.7,19.5,2.79,2.69
+New Hampshire,2013,All Races,Overall,25 to 44 Years,All Grades,21.5,24.1,2.79,2.69
+New Hampshire,2013,All Races,Overall,45 to 64 Years,All Grades,16.4,16.3,2.79,2.69
+New Hampshire,2013,All Races,Overall,65 Years and Older,All Grades,7.1,6.9,2.79,2.69
+New Hampshire,2013,All Races,Overall,Age 20 and Older,12th Grade,24.0,24.1,2.79,2.69
+New Hampshire,2013,All Races,Overall,Age 20 and Older,< 12th Grade,34.9,39.7,2.79,2.69
+New Hampshire,2013,All Races,Overall,Age 20 and Older,> 12th Grade,10.8,11.0,2.79,2.69
+New Hampshire,2013,All Races,Overall,Age 25 and Older,12th Grade,22.5,23.0,2.79,2.69
+New Hampshire,2013,All Races,Overall,Age 25 and Older,< 12th Grade,34.7,37.4,2.79,2.69
+New Hampshire,2013,All Races,Overall,Age 25 and Older,> 12th Grade,10.5,11.3,2.79,2.69
+New Hampshire,2013,All Races,Overall,All Ages,All Grades,16.2,17.2,2.79,2.69
+New Hampshire,2013,American Indian/Alaska Native,Overall,All Ages,All Grades,,,2.79,2.69
+New Hampshire,2013,Asian/Pacific Islander,Overall,All Ages,All Grades,,5.1,2.79,2.69
+New Hampshire,2013,Hispanic,Overall,All Ages,All Grades,19.8,11.1,2.79,2.69
+New Hampshire,2013,White,Overall,All Ages,All Grades,16.0,17.1,2.79,2.69
+New Mexico,2019,African American,Overall,All Ages,All Grades,19.3,16.1,3.01,2.67
+New Mexico,2019,All Races,Female,18 to 44 Years,All Grades,15.6,11.7,3.01,2.67
+New Mexico,2019,All Races,Female,All Ages,All Grades,13.8,13.2,3.01,2.67
+New Mexico,2019,All Races,Male,All Ages,All Grades,18.3,17.3,3.01,2.67
+New Mexico,2019,All Races,Overall,18 to 24 Years,All Grades,17.7,12.0,3.01,2.67
+New Mexico,2019,All Races,Overall,25 to 44 Years,All Grades,19.3,17.1,3.01,2.67
+New Mexico,2019,All Races,Overall,45 to 64 Years,All Grades,17.2,18.6,3.01,2.67
+New Mexico,2019,All Races,Overall,65 Years and Older,All Grades,9.0,9.4,3.01,2.67
+New Mexico,2019,All Races,Overall,Age 20 and Older,12th Grade,19.4,19.6,3.01,2.67
+New Mexico,2019,All Races,Overall,Age 20 and Older,< 12th Grade,25.1,24.5,3.01,2.67
+New Mexico,2019,All Races,Overall,Age 20 and Older,> 12th Grade,12.4,11.1,3.01,2.67
+New Mexico,2019,All Races,Overall,Age 25 and Older,12th Grade,19.5,19.0,3.01,2.67
+New Mexico,2019,All Races,Overall,Age 25 and Older,< 12th Grade,24.0,24.7,3.01,2.67
+New Mexico,2019,All Races,Overall,Age 25 and Older,> 12th Grade,12.1,11.7,3.01,2.67
+New Mexico,2019,All Races,Overall,All Ages,All Grades,16.0,15.2,3.01,2.67
+New Mexico,2019,American Indian/Alaska Native,Overall,All Ages,All Grades,12.2,17.3,3.01,2.67
+New Mexico,2019,Asian/Pacific Islander,Overall,All Ages,All Grades,,,3.01,2.67
+New Mexico,2019,Hispanic,Overall,All Ages,All Grades,17.0,15.6,3.01,2.67
+New Mexico,2019,White,Overall,All Ages,All Grades,15.3,14.7,3.01,2.67
+Ohio,2015,African American,Overall,All Ages,All Grades,28.2,22.0,2.61,2.26
+Ohio,2015,All Races,Female,18 to 44 Years,All Grades,24.3,24.1,2.61,2.26
+Ohio,2015,All Races,Female,All Ages,All Grades,20.2,20.4,2.61,2.26
+Ohio,2015,All Races,Male,All Ages,All Grades,23.1,21.7,2.61,2.26
+Ohio,2015,All Races,Overall,18 to 24 Years,All Grades,22.2,19.2,2.61,2.26
+Ohio,2015,All Races,Overall,25 to 44 Years,All Grades,26.8,27.2,2.61,2.26
+Ohio,2015,All Races,Overall,45 to 64 Years,All Grades,23.6,22.4,2.61,2.26
+Ohio,2015,All Races,Overall,65 Years and Older,All Grades,9.9,10.2,2.61,2.26
+Ohio,2015,All Races,Overall,Age 20 and Older,12th Grade,24.5,25.8,2.61,2.26
+Ohio,2015,All Races,Overall,Age 20 and Older,< 12th Grade,44.8,42.1,2.61,2.26
+Ohio,2015,All Races,Overall,Age 20 and Older,> 12th Grade,15.6,14.6,2.61,2.26
+Ohio,2015,All Races,Overall,Age 25 and Older,12th Grade,24.2,25.5,2.61,2.26
+Ohio,2015,All Races,Overall,Age 25 and Older,< 12th Grade,42.9,39.9,2.61,2.26
+Ohio,2015,All Races,Overall,Age 25 and Older,> 12th Grade,15.7,14.6,2.61,2.26
+Ohio,2015,All Races,Overall,All Ages,All Grades,21.6,21.0,2.61,2.26
+Ohio,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,37.1,31.5,2.61,2.26
+Ohio,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,8.8,15.4,2.61,2.26
+Ohio,2015,Hispanic,Overall,All Ages,All Grades,29.2,20.8,2.61,2.26
+Ohio,2015,White,Overall,All Ages,All Grades,20.4,20.7,2.61,2.26
+Oklahoma,2018,African American,Overall,All Ages,All Grades,21.0,18.8,3.04,2.04
+Oklahoma,2018,All Races,Female,18 to 44 Years,All Grades,18.4,22.6,3.04,2.04
+Oklahoma,2018,All Races,Female,All Ages,All Grades,17.2,19.2,3.04,2.04
+Oklahoma,2018,All Races,Male,All Ages,All Grades,22.2,21.2,3.04,2.04
+Oklahoma,2018,All Races,Overall,18 to 24 Years,All Grades,17.3,20.9,3.04,2.04
+Oklahoma,2018,All Races,Overall,25 to 44 Years,All Grades,21.7,25.3,3.04,2.04
+Oklahoma,2018,All Races,Overall,45 to 64 Years,All Grades,23.7,20.8,3.04,2.04
+Oklahoma,2018,All Races,Overall,65 Years and Older,All Grades,11.7,10.1,3.04,2.04
+Oklahoma,2018,All Races,Overall,Age 20 and Older,12th Grade,23.6,24.7,3.04,2.04
+Oklahoma,2018,All Races,Overall,Age 20 and Older,< 12th Grade,33.9,35.6,3.04,2.04
+Oklahoma,2018,All Races,Overall,Age 20 and Older,> 12th Grade,15.0,15.0,3.04,2.04
+Oklahoma,2018,All Races,Overall,Age 25 and Older,12th Grade,23.0,25.1,3.04,2.04
+Oklahoma,2018,All Races,Overall,Age 25 and Older,< 12th Grade,33.8,32.9,3.04,2.04
+Oklahoma,2018,All Races,Overall,Age 25 and Older,> 12th Grade,15.4,14.5,3.04,2.04
+Oklahoma,2018,All Races,Overall,All Ages,All Grades,19.7,20.1,3.04,2.04
+Oklahoma,2018,American Indian/Alaska Native,Overall,All Ages,All Grades,21.7,29.7,3.04,2.04
+Oklahoma,2018,Asian/Pacific Islander,Overall,All Ages,All Grades,13.0,19.5,3.04,2.04
+Oklahoma,2018,Hispanic,Overall,All Ages,All Grades,11.6,19.5,3.04,2.04
+Oklahoma,2018,White,Overall,All Ages,All Grades,19.8,18.9,3.04,2.04
+Oregon,2014,African American,Overall,All Ages,All Grades,,,2.32,2.19
+Oregon,2014,All Races,Female,18 to 44 Years,All Grades,19.7,18.2,2.32,2.19
+Oregon,2014,All Races,Female,All Ages,All Grades,15.8,16.0,2.32,2.19
+Oregon,2014,All Races,Male,All Ages,All Grades,18.2,18.7,2.32,2.19
+Oregon,2014,All Races,Overall,18 to 24 Years,All Grades,17.5,18.0,2.32,2.19
+Oregon,2014,All Races,Overall,25 to 44 Years,All Grades,20.8,20.8,2.32,2.19
+Oregon,2014,All Races,Overall,45 to 64 Years,All Grades,18.2,19.0,2.32,2.19
+Oregon,2014,All Races,Overall,65 Years and Older,All Grades,8.6,8.0,2.32,2.19
+Oregon,2014,All Races,Overall,Age 20 and Older,12th Grade,23.7,24.8,2.32,2.19
+Oregon,2014,All Races,Overall,Age 20 and Older,< 12th Grade,32.8,35.7,2.32,2.19
+Oregon,2014,All Races,Overall,Age 20 and Older,> 12th Grade,12.3,12.2,2.32,2.19
+Oregon,2014,All Races,Overall,Age 25 and Older,12th Grade,22.2,23.4,2.32,2.19
+Oregon,2014,All Races,Overall,Age 25 and Older,< 12th Grade,33.8,34.5,2.32,2.19
+Oregon,2014,All Races,Overall,Age 25 and Older,> 12th Grade,12.4,12.1,2.32,2.19
+Oregon,2014,All Races,Overall,All Ages,All Grades,17.0,17.3,2.32,2.19
+Oregon,2014,American Indian/Alaska Native,Overall,All Ages,All Grades,,,2.32,2.19
+Oregon,2014,Asian/Pacific Islander,Overall,All Ages,All Grades,11.5,8.5,2.32,2.19
+Oregon,2014,Hispanic,Overall,All Ages,All Grades,12.7,18.0,2.32,2.19
+Oregon,2014,White,Overall,All Ages,All Grades,17.1,16.9,2.32,2.19
+Oregon,2016,African American,Overall,All Ages,All Grades,,30.7,2.33,2.32
+Oregon,2016,All Races,Female,18 to 44 Years,All Grades,15.5,19.7,2.33,2.32
+Oregon,2016,All Races,Female,All Ages,All Grades,14.4,16.3,2.33,2.32
+Oregon,2016,All Races,Male,All Ages,All Grades,18.1,17.9,2.33,2.32
+Oregon,2016,All Races,Overall,18 to 24 Years,All Grades,15.1,19.1,2.33,2.32
+Oregon,2016,All Races,Overall,25 to 44 Years,All Grades,19.0,19.9,2.33,2.32
+Oregon,2016,All Races,Overall,45 to 64 Years,All Grades,19.3,18.8,2.33,2.32
+Oregon,2016,All Races,Overall,65 Years and Older,All Grades,7.8,8.9,2.33,2.32
+Oregon,2016,All Races,Overall,Age 20 and Older,12th Grade,22.4,22.9,2.33,2.32
+Oregon,2016,All Races,Overall,Age 20 and Older,< 12th Grade,32.2,33.9,2.33,2.32
+Oregon,2016,All Races,Overall,Age 20 and Older,> 12th Grade,11.8,12.4,2.33,2.32
+Oregon,2016,All Races,Overall,Age 25 and Older,12th Grade,22.8,22.7,2.33,2.32
+Oregon,2016,All Races,Overall,Age 25 and Older,< 12th Grade,30.7,32.0,2.33,2.32
+Oregon,2016,All Races,Overall,Age 25 and Older,> 12th Grade,11.9,12.2,2.33,2.32
+Oregon,2016,All Races,Overall,All Ages,All Grades,16.2,17.1,2.33,2.32
+Oregon,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,24.0,26.1,2.33,2.32
+Oregon,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,5.5,6.3,2.33,2.32
+Oregon,2016,Hispanic,Overall,All Ages,All Grades,12.1,15.5,2.33,2.32
+Oregon,2016,White,Overall,All Ages,All Grades,16.8,16.6,2.33,2.32
+Pennsylvania,2016,African American,Overall,All Ages,All Grades,24.1,25.6,3.61,2.61
+Pennsylvania,2016,All Races,Female,18 to 44 Years,All Grades,18.1,19.1,3.61,2.61
+Pennsylvania,2016,All Races,Female,All Ages,All Grades,16.0,16.6,3.61,2.61
+Pennsylvania,2016,All Races,Male,All Ages,All Grades,20.1,19.8,3.61,2.61
+Pennsylvania,2016,All Races,Overall,18 to 24 Years,All Grades,12.6,15.3,3.61,2.61
+Pennsylvania,2016,All Races,Overall,25 to 44 Years,All Grades,23.5,23.8,3.61,2.61
+Pennsylvania,2016,All Races,Overall,45 to 64 Years,All Grades,21.8,19.9,3.61,2.61
+Pennsylvania,2016,All Races,Overall,65 Years and Older,All Grades,7.2,9.0,3.61,2.61
+Pennsylvania,2016,All Races,Overall,Age 20 and Older,12th Grade,22.9,22.2,3.61,2.61
+Pennsylvania,2016,All Races,Overall,Age 20 and Older,< 12th Grade,33.2,32.7,3.61,2.61
+Pennsylvania,2016,All Races,Overall,Age 20 and Older,> 12th Grade,12.1,13.4,3.61,2.61
+Pennsylvania,2016,All Races,Overall,Age 25 and Older,12th Grade,23.1,22.1,3.61,2.61
+Pennsylvania,2016,All Races,Overall,Age 25 and Older,< 12th Grade,32.9,31.8,3.61,2.61
+Pennsylvania,2016,All Races,Overall,Age 25 and Older,> 12th Grade,12.8,13.6,3.61,2.61
+Pennsylvania,2016,All Races,Overall,All Ages,All Grades,18.0,18.1,3.61,2.61
+Pennsylvania,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,,,3.61,2.61
+Pennsylvania,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,7.0,6.3,3.61,2.61
+Pennsylvania,2016,Hispanic,Overall,All Ages,All Grades,19.2,25.3,3.61,2.61
+Pennsylvania,2016,White,Overall,All Ages,All Grades,17.2,17.1,3.61,2.61
+Rhode Island,2012,African American,Overall,All Ages,All Grades,17.6,21.8,4.51,4.47
+Rhode Island,2012,All Races,Female,18 to 44 Years,All Grades,19.4,21.9,4.51,4.47
+Rhode Island,2012,All Races,Female,All Ages,All Grades,16.2,18.8,4.51,4.47
+Rhode Island,2012,All Races,Male,All Ages,All Grades,18.8,21.4,4.51,4.47
+Rhode Island,2012,All Races,Overall,18 to 24 Years,All Grades,17.8,18.1,4.51,4.47
+Rhode Island,2012,All Races,Overall,25 to 44 Years,All Grades,22.3,26.1,4.51,4.47
+Rhode Island,2012,All Races,Overall,45 to 64 Years,All Grades,18.2,20.9,4.51,4.47
+Rhode Island,2012,All Races,Overall,65 Years and Older,All Grades,8.8,9.3,4.51,4.47
+Rhode Island,2012,All Races,Overall,Age 20 and Older,12th Grade,21.4,25.5,4.51,4.47
+Rhode Island,2012,All Races,Overall,Age 20 and Older,< 12th Grade,30.5,30.2,4.51,4.47
+Rhode Island,2012,All Races,Overall,Age 20 and Older,> 12th Grade,13.5,15.5,4.51,4.47
+Rhode Island,2012,All Races,Overall,Age 25 and Older,12th Grade,19.7,25.5,4.51,4.47
+Rhode Island,2012,All Races,Overall,Age 25 and Older,< 12th Grade,30.9,29.3,4.51,4.47
+Rhode Island,2012,All Races,Overall,Age 25 and Older,> 12th Grade,13.1,15.3,4.51,4.47
+Rhode Island,2012,All Races,Overall,All Ages,All Grades,17.4,20.0,4.51,4.47
+Rhode Island,2012,American Indian/Alaska Native,Overall,All Ages,All Grades,,,4.51,4.47
+Rhode Island,2012,Asian/Pacific Islander,Overall,All Ages,All Grades,13.6,7.2,4.51,4.47
+Rhode Island,2012,Hispanic,Overall,All Ages,All Grades,10.6,19.8,4.51,4.47
+Rhode Island,2012,White,Overall,All Ages,All Grades,18.1,19.9,4.51,4.47
+Rhode Island,2015,African American,Overall,All Ages,All Grades,18.5,21.9,4.76,4.51
+Rhode Island,2015,All Races,Female,18 to 44 Years,All Grades,13.0,16.3,4.76,4.51
+Rhode Island,2015,All Races,Female,All Ages,All Grades,12.8,13.9,4.76,4.51
+Rhode Island,2015,All Races,Male,All Ages,All Grades,18.5,18.8,4.76,4.51
+Rhode Island,2015,All Races,Overall,18 to 24 Years,All Grades,11.5,14.4,4.76,4.51
+Rhode Island,2015,All Races,Overall,25 to 44 Years,All Grades,20.9,22.5,4.76,4.51
+Rhode Island,2015,All Races,Overall,45 to 64 Years,All Grades,17.0,16.6,4.76,4.51
+Rhode Island,2015,All Races,Overall,65 Years and Older,All Grades,7.5,7.2,4.76,4.51
+Rhode Island,2015,All Races,Overall,Age 20 and Older,12th Grade,19.6,20.5,4.76,4.51
+Rhode Island,2015,All Races,Overall,Age 20 and Older,< 12th Grade,27.1,26.7,4.76,4.51
+Rhode Island,2015,All Races,Overall,Age 20 and Older,> 12th Grade,11.0,11.7,4.76,4.51
+Rhode Island,2015,All Races,Overall,Age 25 and Older,12th Grade,20.4,20.1,4.76,4.51
+Rhode Island,2015,All Races,Overall,Age 25 and Older,< 12th Grade,26.0,26.9,4.76,4.51
+Rhode Island,2015,All Races,Overall,Age 25 and Older,> 12th Grade,11.6,12.3,4.76,4.51
+Rhode Island,2015,All Races,Overall,All Ages,All Grades,15.5,16.3,4.76,4.51
+Rhode Island,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,,,4.76,4.51
+Rhode Island,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,13.1,15.7,4.76,4.51
+Rhode Island,2015,Hispanic,Overall,All Ages,All Grades,10.8,13.6,4.76,4.51
+Rhode Island,2015,White,Overall,All Ages,All Grades,15.7,16.2,4.76,4.51
+Rhode Island,2017,African American,Overall,All Ages,All Grades,20.3,14.6,5.26,4.76
+Rhode Island,2017,All Races,Female,18 to 44 Years,All Grades,13.7,10.9,5.26,4.76
+Rhode Island,2017,All Races,Female,All Ages,All Grades,12.9,12.2,5.26,4.76
+Rhode Island,2017,All Races,Male,All Ages,All Grades,17.2,16.9,5.26,4.76
+Rhode Island,2017,All Races,Overall,18 to 24 Years,All Grades,10.6,9.2,5.26,4.76
+Rhode Island,2017,All Races,Overall,25 to 44 Years,All Grades,19.8,17.7,5.26,4.76
+Rhode Island,2017,All Races,Overall,45 to 64 Years,All Grades,16.7,17.5,5.26,4.76
+Rhode Island,2017,All Races,Overall,65 Years and Older,All Grades,7.6,8.0,5.26,4.76
+Rhode Island,2017,All Races,Overall,Age 20 and Older,12th Grade,19.0,19.2,5.26,4.76
+Rhode Island,2017,All Races,Overall,Age 20 and Older,< 12th Grade,29.0,21.3,5.26,4.76
+Rhode Island,2017,All Races,Overall,Age 20 and Older,> 12th Grade,10.8,11.5,5.26,4.76
+Rhode Island,2017,All Races,Overall,Age 25 and Older,12th Grade,19.0,19.1,5.26,4.76
+Rhode Island,2017,All Races,Overall,Age 25 and Older,< 12th Grade,28.5,22.3,5.26,4.76
+Rhode Island,2017,All Races,Overall,Age 25 and Older,> 12th Grade,11.2,12.0,5.26,4.76
+Rhode Island,2017,All Races,Overall,All Ages,All Grades,14.9,14.4,5.26,4.76
+Rhode Island,2017,American Indian/Alaska Native,Overall,All Ages,All Grades,,,5.26,4.76
+Rhode Island,2017,Asian/Pacific Islander,Overall,All Ages,All Grades,32.7,11.1,5.26,4.76
+Rhode Island,2017,Hispanic,Overall,All Ages,All Grades,14.2,9.2,5.26,4.76
+Rhode Island,2017,White,Overall,All Ages,All Grades,14.2,15.0,5.26,4.76
+Vermont,2015,African American,Overall,All Ages,All Grades,,,4.09,3.63
+Vermont,2015,All Races,Female,18 to 44 Years,All Grades,17.4,20.2,4.09,3.63
+Vermont,2015,All Races,Female,All Ages,All Grades,14.0,15.0,4.09,3.63
+Vermont,2015,All Races,Male,All Ages,All Grades,18.0,17.8,4.09,3.63
+Vermont,2015,All Races,Overall,18 to 24 Years,All Grades,18.0,17.8,4.09,3.63
+Vermont,2015,All Races,Overall,25 to 44 Years,All Grades,19.8,25.7,4.09,3.63
+Vermont,2015,All Races,Overall,45 to 64 Years,All Grades,16.5,15.1,4.09,3.63
+Vermont,2015,All Races,Overall,65 Years and Older,All Grades,9.0,5.8,4.09,3.63
+Vermont,2015,All Races,Overall,Age 20 and Older,12th Grade,23.0,22.7,4.09,3.63
+Vermont,2015,All Races,Overall,Age 20 and Older,< 12th Grade,35.5,38.4,4.09,3.63
+Vermont,2015,All Races,Overall,Age 20 and Older,> 12th Grade,10.7,10.8,4.09,3.63
+Vermont,2015,All Races,Overall,Age 25 and Older,12th Grade,22.2,22.1,4.09,3.63
+Vermont,2015,All Races,Overall,Age 25 and Older,< 12th Grade,32.1,37.8,4.09,3.63
+Vermont,2015,All Races,Overall,Age 25 and Older,> 12th Grade,10.5,10.6,4.09,3.63
+Vermont,2015,All Races,Overall,All Ages,All Grades,16.0,16.4,4.09,3.63
+Vermont,2015,American Indian/Alaska Native,Overall,All Ages,All Grades,36.4,,4.09,3.63
+Vermont,2015,Asian/Pacific Islander,Overall,All Ages,All Grades,,,4.09,3.63
+Vermont,2015,Hispanic,Overall,All Ages,All Grades,9.5,,4.09,3.63
+Vermont,2015,White,Overall,All Ages,All Grades,15.8,15.9,4.09,3.63
+West Virginia,2016,African American,Overall,All Ages,All Grades,32.4,30.6,2.21,1.56
+West Virginia,2016,All Races,Female,18 to 44 Years,All Grades,30.9,33.6,2.21,1.56
+West Virginia,2016,All Races,Female,All Ages,All Grades,23.9,25.7,2.21,1.56
+West Virginia,2016,All Races,Male,All Ages,All Grades,25.8,25.7,2.21,1.56
+West Virginia,2016,All Races,Overall,18 to 24 Years,All Grades,22.3,25.5,2.21,1.56
+West Virginia,2016,All Races,Overall,25 to 44 Years,All Grades,33.3,34.7,2.21,1.56
+West Virginia,2016,All Races,Overall,45 to 64 Years,All Grades,27.9,28.1,2.21,1.56
+West Virginia,2016,All Races,Overall,65 Years and Older,All Grades,10.8,10.7,2.21,1.56
+West Virginia,2016,All Races,Overall,Age 20 and Older,12th Grade,27.1,26.8,2.21,1.56
+West Virginia,2016,All Races,Overall,Age 20 and Older,< 12th Grade,42.4,38.2,2.21,1.56
+West Virginia,2016,All Races,Overall,Age 20 and Older,> 12th Grade,17.5,20.9,2.21,1.56
+West Virginia,2016,All Races,Overall,Age 25 and Older,12th Grade,26.5,26.2,2.21,1.56
+West Virginia,2016,All Races,Overall,Age 25 and Older,< 12th Grade,41.3,37.0,2.21,1.56
+West Virginia,2016,All Races,Overall,Age 25 and Older,> 12th Grade,18.5,21.0,2.21,1.56
+West Virginia,2016,All Races,Overall,All Ages,All Grades,24.8,25.7,2.21,1.56
+West Virginia,2016,American Indian/Alaska Native,Overall,All Ages,All Grades,,,2.21,1.56
+West Virginia,2016,Asian/Pacific Islander,Overall,All Ages,All Grades,,,2.21,1.56
+West Virginia,2016,Hispanic,Overall,All Ages,All Grades,,,2.21,1.56
+West Virginia,2016,White,Overall,All Ages,All Grades,24.7,25.3,2.21,1.56
