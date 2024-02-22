@@ -80,11 +80,12 @@ To validate the fundamental assumption of parallel trends, BRFSS survey data is 
 5.1 Effects of traditional cigarette and e-cigarette tax rates on adult tobacco product use
 By concentrating on the pivotal year 2015 and employing a DiD estimator, we aim to offer causal insights into the impact of traditional cigarette tax changes on the percentage of the population that smokes, maintaining a focused and simplified model. For this, we selected 4 states with similar consumption during 2015.
 
-State	Use_2015(%)	Use_2016(%)	Old_Tax	New_Tax	Treat
-Nevada	17.5	16.5	1.81	2.81	1.0
-Kansas	17.7	17.2	1.80	2.30	1.0
-Wisconsin	17.3	17.1	3.53	3.53	0.0
-Nebraska	17.1	17.0	1.65	1.65	0.0
+|    State  |  Use_2015(%)	| Use_2016(%) |	Old_Tax |  New_Tax  |  Treat  |
+|-----------|---------------|-------------|---------|-----------|---------|
+|   Kansas	|     17.7	    |   17.2	  |  1.80	|   2.30	|   1.0   |
+|   Nevada	|     17.5	    |   16.5	  |  1.81	|   2.81	|   1.0   |
+| Wisconsin |     17.3	    |   17.1	  |  3.53	|   3.53	|   0.0   |
+| Nebraska  |	  17.1	    |   17.0	  |  1.65	|   1.65	|   0.0   |
 
 The result of the OLS regression is appended below. The coefficient of Tax_Change is -0.9846 with a p value <0.05. This indicates that for every $1 increase in tax, cigarette consumptions reduces by 0.984%.
 
@@ -125,4 +126,3 @@ Cotti C, Nesson E, & Tefft N (2016). The effects of tobacco control policies on 
 Cotti C, Nesson E, & Tefft N (2018). The relationship between cigarettes and electronic cigarettes: Evidence from household panel data. Journal of Health Economics, 61, 205–219. [PubMed: 30172023]
 Cotti CD, Courtemanche C, Maclean JC, Nesson E, Pesko M, & Tefft N (2020). The effects of e-cigarette taxes on e-cigarette prices and tobacco product sales: Evidence from retail panel data. NBER Working Paper.
 Callison K, & Kaestner R (2014). Do higher tobacco taxes reduce adult smoking? New evidence of the effect of recent cigarette tax increases on adult smoking. Economic Inquiry, 52(1), 155–172.
-![image](https://github.com/sarathsaroj/Tax_Effect-on-Cigarette_Consumption-and-E_Cigarette-Adoption-Comparative-Analysis/assets/125769094/684bd235-5bb5-460a-a268-fecc127b3e07)
