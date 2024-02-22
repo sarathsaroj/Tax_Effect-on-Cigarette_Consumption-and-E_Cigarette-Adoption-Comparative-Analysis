@@ -46,6 +46,9 @@ Table 1 comprehensively lists localities that underwent changes in their traditi
 Figures 1 & 2 visually represents the geographic distribution of traditional cigarette taxes and the corresponding number of tax changes each year, respectively. While some clustering of higher traditional cigarette tax increases is observed in the West and Northeast regions from 2011 to 2019, our analysis refrains from considering sub-state tax changes.
 By exclusively focusing on state-level traditional cigarette excise taxes, this study aims to provide a targeted examination of the impact of these tax adjustments on smoking behavior, omitting the consideration of sub-state tax policies for a more streamlined analysis.
 
+![Figure 1](Figure%1.png)
+![Table 1](Table%1.png)
+![Figure 2](Figure%2.png)
 
 		              Figure 1							Table 1
 
